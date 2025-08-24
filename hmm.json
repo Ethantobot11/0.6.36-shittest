@@ -14,9 +14,8 @@
     },
     {
       "name": "flixel",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/Ethantobot11/flixelTH2L"
+      "type": "haxelib",
+      "version": "2.11.0"
     },
     {
       "name": "flixel-addons",
